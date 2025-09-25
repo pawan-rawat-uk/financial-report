@@ -74,10 +74,27 @@ To deliver a **unified financial reporting solution** that:
 
 ## 📸 Screenshots / Demos
 
-🔗 **Live Dashboard (Power BI Service)**: [View Online](<iframe title="Financial Reporting" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiZWFjYTQyZmYtZjFiYS00YmViLWEwY2ItOGMxNGUxMDhjYmQwIiwidCI6ImI1MTdmYzgwLTQ2M2UtNGJhZC05YTY2LWUzNGQ4YThlYmIxMiJ9" frameborder="0" allowFullScreen="true"></iframe>)  
+🔗 **Live Dashboard (Power BI Service)**: [View Online](https://app.powerbi.com/view?r=eyJrIjoiZWFjYTQyZmYtZjFiYS00YmViLWEwY2ItOGMxNGUxMDhjYmQwIiwidCI6ImI1MTdmYzgwLTQ2M2UtNGJhZC05YTY2LWUzNGQ4YThlYmIxMiJ9)  
 📂 **PBIX File (Google Drive)**: [Download Here](https://drive.google.com/file/d/1cbX0wGq9YwDkNyScTHMzHB5oH3b4r9Cn/view?usp=drive_link)  
 📸 **Preview Screenshots**:  
 
+### 🧾 Income Statement
+![Income Statement](Income%20Statement.png)
+
+### 📊 Balance Sheet
+![Balance Sheet](Balance Sheet.png)
+
+### 💰 Cash Flow Statement
+![Cash Flow Statement](Cash%20Flow%20Statement.png)
+
+### 📑 Aged Trial Balance
+![Aged Trial Balance](Aged%20Trial%20Balance.png)
+
+### 📈 Financial Details
+![Financial Details](Financial%20Details.png)
+
+### 📉 Revenue Insights
+![Revenue Insights](Revenue%20Insights.png)
 
 ---
 

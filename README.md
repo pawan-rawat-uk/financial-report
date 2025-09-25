@@ -76,25 +76,43 @@ To deliver a **unified financial reporting solution** that:
 
 🔗 **Live Dashboard (Power BI Service)**: [View Online](https://app.powerbi.com/view?r=eyJrIjoiZWFjYTQyZmYtZjFiYS00YmViLWEwY2ItOGMxNGUxMDhjYmQwIiwidCI6ImI1MTdmYzgwLTQ2M2UtNGJhZC05YTY2LWUzNGQ4YThlYmIxMiJ9)  
 📂 **PBIX File (Google Drive)**: [Download Here](https://drive.google.com/file/d/1cbX0wGq9YwDkNyScTHMzHB5oH3b4r9Cn/view?usp=drive_link)  
+
+
 📸 **Preview Screenshots**:  
 
-### 🧾 Income Statement
-![Income Statement](Income%20Statement.png)
+<table>
+  <tr>
+    <td align="center">
+      🧾 <b>Income Statement</b><br/>
+      <img src="https://github.com/pawan-rawat-uk/financial-report/blob/main/Income%20Statement.png?raw=true" width="400"/>
+    </td>
+    <td align="center">
+      📊 <b>Balance Sheet</b><br/>
+      <img src="https://github.com/pawan-rawat-uk/financial-report/blob/main/Balance%20Sheet.png?raw=true" width="400"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      💰 <b>Cash Flow Statement</b><br/>
+      <img src="https://github.com/pawan-rawat-uk/financial-report/blob/main/Cash%20Flow%20Statement.png?raw=true" width="400"/>
+    </td>
+    <td align="center">
+      📑 <b>Aged Trial Balance</b><br/>
+      <img src="https://github.com/pawan-rawat-uk/financial-report/blob/main/Aged%20Trial%20Balance.png?raw=true" width="400"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      📈 <b>Financial Details</b><br/>
+      <img src="https://github.com/pawan-rawat-uk/financial-report/blob/main/Financial%20Details.png?raw=true" width="400"/>
+    </td>
+    <td align="center">
+      📉 <b>Revenue Insights</b><br/>
+      <img src="https://github.com/pawan-rawat-uk/financial-report/blob/main/Revenue%20Insights.png?raw=true" width="400"/>
+    </td>
+  </tr>
+</table>
 
-### 📊 Balance Sheet
-![Balance Sheet](Balance Sheet.png)
-
-### 💰 Cash Flow Statement
-![Cash Flow Statement](Cash%20Flow%20Statement.png)
-
-### 📑 Aged Trial Balance
-![Aged Trial Balance](Aged%20Trial%20Balance.png)
-
-### 📈 Financial Details
-![Financial Details](Financial%20Details.png)
-
-### 📉 Revenue Insights
-![Revenue Insights](Revenue%20Insights.png)
 
 ---
 
